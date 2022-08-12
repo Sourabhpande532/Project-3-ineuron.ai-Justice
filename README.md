@@ -10,7 +10,7 @@ By **saurabh**
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--3-lightgrey)
 
 
-# [GO LIVE]()
+# [GO LIVE](https://justice-p3-ineuro-ai.netlify.app/)
 ![](./Images/3.png)
 
 -   Skills Gained in this project
